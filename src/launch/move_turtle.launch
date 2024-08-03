@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<launch>  <node name="turtlesim_node" pkg="turtlesim" type="turtlesim_node" output="screen"/>
+<node name="publisher_node" pkg="send_goal"
+type="Goal.py" output="screen"/>
+</launch>
