@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the SLAM simulation with the TurtleBot3 in Gazebo, various environments and robot models can be selected or created for the virtual world. Once the simulation environment is prepared and the robot is ready, the SLAM process closely mirrors that of using a real TurtleBot3. 
+Navigation in robots in the SLAM simulation with the TurtleBot3 in Gazebo, various environments and robot models can be selected or created for the virtual world. Once the simulation environment is prepared and the robot is ready, the SLAM process closely mirrors that of using a real TurtleBot3. 
 
 ## Map Creation and Navigation
 
