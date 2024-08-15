@@ -15,3 +15,6 @@ This project uses OpenCV to detect faces in real-time and communicates the resul
    - There are two main scripts: one for the Python code that handles face detection and communication with the Arduino, and another for the Arduino code that controls the LED.
    - The Python script will also act as a ROS node, sending `1` when a face is detected and `0` when no face is detected.
    - The Arduino script will be updated to receive this data from ROS, so it can control the LED based on whether a face is detected or not.
+  
+
+![Screenshot from 2024-08-09 00-54-16](https://github.com/user-attachments/assets/3373763a-0bcf-4cdb-bfd5-19c7cca83fee)
