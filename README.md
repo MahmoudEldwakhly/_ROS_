@@ -19,12 +19,6 @@ A Python script has been developed to control the TurtleBot3 using ROS (Robot Op
 - Creates an action client to interact with the move_base server.
 - Sends navigation goals to the robot.
 
-## Usage
 
-1. Ensure the ROS environment is properly set up.
-2. Run the SLAM and save the map.
-3. Perform initial pose estimation.
-4. Use the provided Python script to input goal coordinates and orientations for navigation.
 
-For detailed instructions on running the script and setting goals, please refer to the script documentation.
 
