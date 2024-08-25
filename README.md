@@ -19,9 +19,7 @@ A Python script has been developed to control the TurtleBot3 using ROS (Robot Op
 - Creates an action client to interact with the move_base server.
 - Sends navigation goals to the robot.
 
-  Video : https://drive.google.com/file/d/1j3Ks7iAWUE6gDLMdN4pfBgmxecINZ0Bz/view?usp=drive_link ,,,,,,
-  
-  https://drive.google.com/file/d/1-SNWsUe5AO7EUHV-tNps6FjnlxHGFuVm/view?usp=drive_link
+  Video : https://drive.google.com/file/d/1-SNWsUe5AO7EUHV-tNps6FjnlxHGFuVm/view?usp=drive_link
 
 
 
